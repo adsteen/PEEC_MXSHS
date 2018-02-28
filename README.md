@@ -10,7 +10,7 @@ The script was run using R version 3.4.1 and the following packages:
 * **lubridate** v 1.7.1
 * **gridExtra** v 2.3
 
-The script assumes that the working directory contains directories structured as in this repo. Since plots are saved to the `plots` directory, that directory is included in this repo, despite the fact that it is currently left empty.
+The script assumes that the working directory contains directories structured as in this repo. Since git would prefer users not add empty directories, the user will have to add a plots directory or change the path that plots are saved to.
 
 Please direct questions or comments about this code to [Andrew Steen](mailto:asteen1@utk.edu).
 
